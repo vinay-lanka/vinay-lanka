@@ -4,7 +4,7 @@ I'm a final year Electronics and Communication Engineering Undergraduate from VI
 
 Technical Lead at [IEEE VIT Student Chapter](https://github.com/IEEE-VIT)
 
-Robotics Software Engineer | Full Stack Web Developer | IoT Engineer | Electronics Enthusiast | Embedded Systems
+Robotics Software Engineer | Full Stack Web Developer | Embedded Systems Developer | IoT Engineer | Electronics Hobbyist 
 
 Open Source Contributor ❤️
 
