@@ -2,8 +2,6 @@
 
 I'm a final year Electronics and Communication Engineering Undergraduate from VIT Vellore.
 
-Technical Lead at [IEEE VIT Student Chapter](https://github.com/IEEE-VIT)
-
 Robotics Software Engineer | Full Stack Web Developer | Embedded Systems Developer | IoT Engineer | Electronics Hobbyist 
 
 Open Source Contributor ❤️
