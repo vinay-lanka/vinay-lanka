@@ -1,13 +1,15 @@
 ## Hi, I'm Vinay Lanka! 
 
-I'm a final year Electronics and Communication Engineering Undergraduate from VIT Vellore.
+R&D Robotics and IoT @ THIS IS DMG GmbH
+
+Electronics and Communication Engineering Undergraduate from VIT Vellore.
 
 Robotics Software Engineer | Full Stack Web Developer | Embedded Systems Developer | IoT Engineer | Electronics Hobbyist 
 
 Open Source Contributor ❤️
 
-- 🔭 I’m currently working on Web apps and Robotics/Electronics projects.
-- 👯 I’m looking to collaborate on a web based ROS project 
+- 🔭 I’m currently working on Robotics.
+- 👯 I’m looking to collaborate on a web based ROS project! 
 
 ### Get in touch
 
