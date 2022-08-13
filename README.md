@@ -1,14 +1,14 @@
 ## Hi, I'm Vinay Lanka! 
 
-R&D Robotics and IoT @ THIS IS DMG GmbH
+R&D Lead (Robotics and IoT) @ Neoflux (Part of DMG Group).
 
 Electronics and Communication Engineering Undergraduate from VIT Vellore.
 
-Robotics Software Engineer | Full Stack Web Developer | Embedded Systems Developer | IoT Engineer | Electronics Hobbyist 
+Robotics Software Engineer | IoT Engineer | Full Stack Web Developer | Embedded Systems Developer | Electronics Hobbyist 
 
 Open Source Contributor ❤️
 
-- 🔭 I’m currently working on Robotics.
+- 🔭 I’m currently learning ML.
 - 👯 I’m looking to collaborate on a web based ROS project! 
 
 ### Get in touch
