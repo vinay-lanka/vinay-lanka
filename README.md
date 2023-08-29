@@ -1,6 +1,10 @@
 ## Hi, I'm Vinay Lanka! 
 
-R&D Lead (Robotics and IoT) @ Neoflux (Part of DMG Group).
+I'm currently pursuing my Masters in Robotics as a Graduate Student at the University of Maryland, College Park. 
+
+Previously,
+- Robotics Engineer at Newspace Research and Technologies.
+- R&D Engineer (Robotics and IoT) @ Neoflux (Part of DMG Group).
 
 Electronics and Communication Engineering Undergraduate from VIT Vellore.
 
@@ -9,7 +13,7 @@ Robotics Software Engineer | IoT Engineer | Full Stack Web Developer | Embedded 
 Open Source Contributor ❤️
 
 - 🔭 I’m currently learning ML.
-- 👯 I’m looking to collaborate on a web based ROS project! 
+- 👯 I’m looking to collaborate on a web-based ROS project! 
 
 ### Get in touch
 
