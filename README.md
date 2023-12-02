@@ -1,6 +1,6 @@
 ## Hi, I'm Vinay Lanka! 
 
-I'm currently pursuing my Masters in Robotics as a Graduate Student at the University of Maryland, College Park. 
+I'm pursuing my Masters in Robotics as a Graduate Student at the University of Maryland, College Park. 
 
 Previously,
 - Robotics Engineer at Newspace Research and Technologies.
@@ -8,11 +8,11 @@ Previously,
 
 Electronics and Communication Engineering Undergraduate from VIT Vellore.
 
-Robotics Software Engineer | IoT Engineer | Full Stack Web Developer | Embedded Systems Developer | Electronics Hobbyist 
+I like to dabble in Web Development, Embedded Systems, CAD Design, 3D printing, and IoT by doing interdisciplinary projects, check out some of the projects below!
+I also work on hardware projects (Woodworking, Aluminium profiling) and love tinkering in a workshop. 
+I generally just like to make and build things.
 
-Open Source Contributor ❤️
-
-- 🔭 I’m currently learning ML.
+- 🔭 I’m currently learning Software Development for Robotics, Control of Robotic Systems, and Robot Modelling and Kinematics.
 - 👯 I’m looking to collaborate on a web-based ROS project! 
 
 ### Get in touch
