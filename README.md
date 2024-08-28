@@ -2,6 +2,8 @@
 
 I'm pursuing my Masters in Robotics as a Graduate Student at the University of Maryland, College Park. 
 
+I'm currently a Parsons X intern, having completed a Drone Program Internship over the summer.
+
 Previously,
 - Robotics Engineer at Newspace Research and Technologies.
 - R&D Engineer (Robotics and IoT) @ Neoflux (Part of DMG Group).
