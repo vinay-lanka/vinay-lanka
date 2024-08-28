@@ -10,12 +10,11 @@ Previously,
 
 Electronics and Communication Engineering Undergraduate from VIT Vellore.
 
-I like to dabble in Web Development, Embedded Systems, CAD Design, 3D printing, and IoT by doing interdisciplinary projects, check out some of the projects below!
-I also work on hardware projects (Woodworking, Aluminium profiling) and love tinkering in a workshop. 
+I also work on hardware projects and am currently working on building a Camera using off-the-shelf components. 
 I generally just like to make and build things.
 
-- 🔭 I’m currently learning Software Development for Robotics, Control of Robotic Systems, and Robot Modelling and Kinematics.
-- 👯 I’m looking to collaborate on a web-based ROS project! 
+- 🔭 I’m currently learning Multimodal Foundation Models and Decision Making for Robots and dabble in Robotics Perception Research.
+- 👯 I’m looking to learn more about computational imaging.
 
 ### Get in touch
 
